@@ -13,127 +13,91 @@
 ---
 
 ## 🧠 About Me
-
-```diff
-+ CSE Student at City University, Bangladesh
-+ Full Stack Developer (Flutter + Node.js + Express)
-+ Strong foundation in OOP, Logic & Problem Solving
-+ Passionate about AI and Backend Systems
-+ Building real-world impactful applications
-+ Goal: Work at top tech companies (Google / Microsoft)
-
+- 🎓 CSE Student at City University, Bangladesh  
+- 💻 Full Stack Developer (Flutter + Node.js + Express)  
+- 🧠 Strong foundation in OOP, Logic & Problem Solving  
+- 🤖 Passionate about AI and Backend Systems  
+- 🔥 Building real-world impactful applications  
+- 🎯 Goal: Work at top tech companies (Google / Microsoft)  
 
 ---
 
-⚔️ Tech Arsenal
+## ⚔️ Tech Arsenal
 
-💻 Languages
-
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,dart,js" />
-</p>🛠️ Frameworks & Tools
+</p>
 
+### 🛠️ Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
----
-
-🚀 Featured Projects
-
-🩺 Anti-Diabetes AI App
-
-> AI-powered health assistant focused on diabetes management
-
-
-
-🤖 Intelligent health tracking system
-
-📊 Smart data analysis & insights
-
-🧠 AI-driven recommendations
-
-🔥 Solving real-world healthcare problems
-
-
-🔗 https://github.com/Forhad404-FR/Anti-Diabetes-AI-App
-
 
 ---
 
-📌 Flutter To-Do App
+## 🚀 Featured Projects
 
-> Minimal, smooth & productivity-focused task manager
-
-
-
-🎯 Clean and intuitive UI using Flutter
-
-👉 Slidable task actions (Edit / Delete)
-
-⚡ Fast, responsive, and lightweight
-
-🧠 Structured and maintainable logic
-
-
-🔗 https://github.com/Forhad404-FR/flutter_todo_app
-
+### 🩺 Anti-Diabetes AI App
+- 🤖 Intelligent health tracking system  
+- 📊 Smart data analysis & insights  
+- 🧠 AI-driven recommendations  
+- 🔥 Solving real-world healthcare problems  
+- 🔗 [View Project](https://github.com/Forhad404-FR/Anti-Diabetes-AI-App)
 
 ---
 
-🤖 AI Focus
-
-! Building intelligent systems, not just applications
-
-🧠 Exploring AI integration in real-world apps
-
-📊 Data-driven decision systems
-
-🚀 Goal: Build scalable AI-powered platforms
-
-
+### 📌 Flutter To-Do App
+- 🎯 Clean and intuitive UI using Flutter  
+- 👉 Slidable task actions (Edit / Delete)  
+- ⚡ Fast, responsive, and lightweight  
+- 🧠 Structured and maintainable logic  
+- 🔗 [View Project](https://github.com/Forhad404-FR/flutter_todo_app)
 
 ---
 
-📊 GitHub Analytics
+## 🤖 AI Focus
+- 🧠 Exploring AI integration in real-world apps  
+- 📊 Data-driven decision systems  
+- 🚀 Goal: Build scalable AI-powered platforms  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Forhad404-FR&show_icons=true&theme=tokyonight&hide_border=true" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Forhad404-FR&theme=tokyonight&hide_border=true" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forhad404-FR&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
-📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Forhad404-FR&theme=react-dark&hide_border=true" />
 </p>
----
-
-💼 Why Hire Me?
-
-+ Fast Learner
-+ Highly Adaptable
-+ Strong Communication Skills
-+ Problem Solver Mindset
-+ Team Collaboration Ability
-+ Consistent & Focused
-
-🧠 Quickly learns and applies new technologies
-
-🔄 Adapts to new challenges and environments
-
-🗣️ Communicates ideas clearly and effectively
-
-🎯 Focused on solving meaningful real-world problems
-
-
 
 ---
 
-🤝 Connect With Me
+## 💼 Why Hire Me
+- ⚡ Fast Learner  
+- 🔄 Highly Adaptable  
+- 🗣️ Strong Communication Skills  
+- 🧠 Problem Solver Mindset  
+- 🤝 Team Collaboration Ability  
+- 🎯 Consistent & Focused  
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Forhad404-FR">
@@ -143,18 +107,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+
 ---
 
-🧠 Philosophy
-
+## 🧠 Philosophy
 > "Discipline and consistency build unstoppable growth."
-
-
-
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
 </p>
-```
